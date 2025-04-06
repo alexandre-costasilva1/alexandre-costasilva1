@@ -21,4 +21,4 @@
  
 </div>
 
-<img src="https://raw.githubusercontent.com/alexandre.costasilva1/gitrepo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/alexandre-costasilva1/alexandre-costasilva1/output/snake.svg" alt="Snake animation" />
