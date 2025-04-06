@@ -21,4 +21,4 @@
  
 </div>
 
-![snake gif](https://github.com/alexandre-costasilva1/.github/workflows/main.yml/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/alexandre.costasilva1/gitrepo/output/snake.svg" alt="Snake animation" />
