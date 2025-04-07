@@ -26,5 +26,3 @@
   <a href="https://www.linkedin.com/in/alexandre-costasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-
-<img src="https://raw.githubusercontent.com/alexandre-costasilva1/alexandre-costasilva1/output/main.svg" alt="Snake animation" />
