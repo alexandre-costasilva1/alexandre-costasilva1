@@ -1,9 +1,15 @@
 ## Oláa! Eu sou o Alexandre
- <div>
-  <a href="https://github.com/alexandre-costasilva1">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alexandre-costasilva1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-costasilva1&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=alexandre-costasilva1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-costasilva1&layout=compact&langs_count=16&theme=dracula" width="400"/><br>
+    </td>
+  </tr>
+</table>
+
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Ale-PostgreSql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
